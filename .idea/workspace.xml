@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c1aabb5-19e7-48cc-8e36-b72fc309579b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/2-bron-materiaal/artikelen/build-an-ai-agent-to-generate-selenium-java-test-scripts-from-plain-text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2-bron-materiaal/artikelen/type-of-testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2-bron-materiaal/artikelen/what-is-end-to-end-testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2-bron-materiaal/onderzoeken/onderzoek-genai-voor-e2e-testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2-bron-materiaal/videos/let-ai-explore-your-site-&amp;-write-tests-with-playwright-mcp!.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/6-hoofd-aantekeningen/automatisering-door-ai-van-end-to-end-testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/05b618077343fbbd92b7.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/085cb93e613ba3d40d2b.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/293fd13dbca5a3e450ef.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/2d5198822ab091ce4305.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/454577c22304619db035.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/52ac8f3034507f1d9e53.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/535a6cf662596b3bd6a6.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/70cc7ff27245e82ad414.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/72505e6a122c6acd5471.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/94f2f163d4b698242fef.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/b5f0f109bc88052d4000.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/c8ba52b05a9ef10f4758.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/cb10ffd7684cd9836a05.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/fonts/cbe0ae49c52c920fd563.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/html/file-tree-content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/media/6155340132a851f6089e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/media/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/scripts/webpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/styles/global-variable-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/styles/main-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/styles/obsidian.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site-lib/styles/theme.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="35QjXZShkmzuPWQVReSFpteORuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jorn/Documents/GitHub/GenAI-Onderzoek",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1aabb5-19e7-48cc-8e36-b72fc309579b" name="Changes" comment="" />
+      <created>1763049230090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763049230090</updated>
+      <workItem from="1763049231404" duration="851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
